@@ -1556,7 +1556,7 @@ MonoBehaviour:
   magnetVFX: {fileID: 1590415177872986601, guid: acdb90624a404aa438447006f1026065, type: 3}
   wallBreakVFX: {fileID: 725748389856807714, guid: 4bda94453d2ca7444a0fff05b2d425f5, type: 3}
   ShieldVFX: {fileID: 266888741551691351, guid: ead4a1c7fb79ce94a8899e237031b696, type: 3}
-  speed: 5
+  speed: 8
   shift: 2
   isLeft: 0
   isMiddle: 0
